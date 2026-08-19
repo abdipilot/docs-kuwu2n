@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-o37eky.mantra88eur.cyou/sitemap.xml
